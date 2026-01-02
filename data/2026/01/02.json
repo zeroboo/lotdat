@@ -1,0 +1,146 @@
+[
+  {
+    "region": "South",
+    "province": "binh-duong",
+    "date": "2026-01-02",
+    "prizes": {
+      "eighth": [
+        "39"
+      ],
+      "seventh": [
+        "542"
+      ],
+      "sixth": [
+        "2294",
+        "3028",
+        "6099"
+      ],
+      "fifth": [
+        "2337"
+      ],
+      "fourth": [
+        "10882",
+        "17141",
+        "28859",
+        "70775",
+        "71038",
+        "82898",
+        "86203"
+      ],
+      "third": [
+        "07774",
+        "43366"
+      ],
+      "second": [
+        "46858"
+      ],
+      "first": [
+        "73673"
+      ],
+      "special": [
+        "807141"
+      ]
+    },
+    "source": "xoso",
+    "consensusSources": [
+      "xoso",
+      "xosodaiphat"
+    ]
+  },
+  {
+    "region": "South",
+    "province": "tra-vinh",
+    "date": "2026-01-02",
+    "prizes": {
+      "eighth": [
+        "89"
+      ],
+      "seventh": [
+        "956"
+      ],
+      "sixth": [
+        "3027",
+        "7842",
+        "9052"
+      ],
+      "fifth": [
+        "3558"
+      ],
+      "fourth": [
+        "13903",
+        "22705",
+        "31170",
+        "45253",
+        "88313",
+        "91346",
+        "94198"
+      ],
+      "third": [
+        "33378",
+        "78998"
+      ],
+      "second": [
+        "91586"
+      ],
+      "first": [
+        "66002"
+      ],
+      "special": [
+        "195707"
+      ]
+    },
+    "source": "xoso",
+    "consensusSources": [
+      "xoso",
+      "xosodaiphat"
+    ]
+  },
+  {
+    "region": "South",
+    "province": "vinh-long",
+    "date": "2026-01-02",
+    "prizes": {
+      "eighth": [
+        "08"
+      ],
+      "seventh": [
+        "149"
+      ],
+      "sixth": [
+        "0160",
+        "4292",
+        "6580"
+      ],
+      "fifth": [
+        "2154"
+      ],
+      "fourth": [
+        "04321",
+        "37092",
+        "68523",
+        "74898",
+        "75369",
+        "86098",
+        "86244"
+      ],
+      "third": [
+        "14821",
+        "61003"
+      ],
+      "second": [
+        "84993"
+      ],
+      "first": [
+        "73749"
+      ],
+      "special": [
+        "492364"
+      ]
+    },
+    "source": "xoso",
+    "consensusSources": [
+      "xoso",
+      "xosodaiphat"
+    ]
+  }
+]
