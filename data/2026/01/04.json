@@ -1,0 +1,143 @@
+[
+  {
+    "region": "South",
+    "province": "tien-giang",
+    "date": "2026-01-04",
+    "prizes": {
+      "special": [
+        "520288"
+      ],
+      "first": [
+        "93629"
+      ],
+      "second": [
+        "37765"
+      ],
+      "third": [
+        "69949",
+        "27434"
+      ],
+      "fourth": [
+        "10423",
+        "91208",
+        "13568",
+        "46186",
+        "95813",
+        "99257",
+        "61496"
+      ],
+      "fifth": [
+        "2920"
+      ],
+      "sixth": [
+        "6093",
+        "3117",
+        "2958"
+      ],
+      "seventh": [
+        "308"
+      ],
+      "eighth": [
+        "48"
+      ]
+    },
+    "source": "xosodaiphat",
+    "consensusSources": [
+      "xosodaiphat"
+    ]
+  },
+  {
+    "region": "South",
+    "province": "kien-giang",
+    "date": "2026-01-04",
+    "prizes": {
+      "special": [
+        "600433"
+      ],
+      "first": [
+        "86746"
+      ],
+      "second": [
+        "33222"
+      ],
+      "third": [
+        "92934",
+        "24143"
+      ],
+      "fourth": [
+        "72151",
+        "91105",
+        "19481",
+        "41212",
+        "14085",
+        "46257",
+        "30098"
+      ],
+      "fifth": [
+        "6771"
+      ],
+      "sixth": [
+        "4389",
+        "0479",
+        "8847"
+      ],
+      "seventh": [
+        "935"
+      ],
+      "eighth": [
+        "25"
+      ]
+    },
+    "source": "xosodaiphat",
+    "consensusSources": [
+      "xosodaiphat"
+    ]
+  },
+  {
+    "region": "South",
+    "province": "lam-dong",
+    "date": "2026-01-04",
+    "prizes": {
+      "special": [
+        "209071"
+      ],
+      "first": [
+        "67054"
+      ],
+      "second": [
+        "28641"
+      ],
+      "third": [
+        "64384",
+        "10466"
+      ],
+      "fourth": [
+        "73408",
+        "92339",
+        "53571",
+        "81190",
+        "69852",
+        "63000",
+        "18265"
+      ],
+      "fifth": [
+        "9616"
+      ],
+      "sixth": [
+        "3543",
+        "2115",
+        "8117"
+      ],
+      "seventh": [
+        "909"
+      ],
+      "eighth": [
+        "07"
+      ]
+    },
+    "source": "xosodaiphat",
+    "consensusSources": [
+      "xosodaiphat"
+    ]
+  }
+]
