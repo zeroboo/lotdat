@@ -1,0 +1,149 @@
+[
+  {
+    "region": "South",
+    "province": "ba-ria-vung-tau",
+    "date": "2026-01-06",
+    "prizes": {
+      "special": [
+        "905728"
+      ],
+      "first": [
+        "17204"
+      ],
+      "second": [
+        "59015"
+      ],
+      "third": [
+        "15602",
+        "21086"
+      ],
+      "fourth": [
+        "33920",
+        "93658",
+        "14897",
+        "36503",
+        "12801",
+        "56167",
+        "53413"
+      ],
+      "fifth": [
+        "8152"
+      ],
+      "sixth": [
+        "3154",
+        "0681",
+        "8741"
+      ],
+      "seventh": [
+        "532"
+      ],
+      "eighth": [
+        "58"
+      ]
+    },
+    "source": "minhngoc",
+    "consensusSources": [
+      "minhngoc",
+      "xoso",
+      "xosodaiphat"
+    ]
+  },
+  {
+    "region": "South",
+    "province": "bac-lieu",
+    "date": "2026-01-06",
+    "prizes": {
+      "special": [
+        "417304"
+      ],
+      "first": [
+        "70180"
+      ],
+      "second": [
+        "83599"
+      ],
+      "third": [
+        "24417",
+        "60170"
+      ],
+      "fourth": [
+        "15138",
+        "06165",
+        "23382",
+        "95596",
+        "09015",
+        "58341",
+        "19671"
+      ],
+      "fifth": [
+        "2372"
+      ],
+      "sixth": [
+        "5814",
+        "9208",
+        "0901"
+      ],
+      "seventh": [
+        "271"
+      ],
+      "eighth": [
+        "53"
+      ]
+    },
+    "source": "minhngoc",
+    "consensusSources": [
+      "minhngoc",
+      "xoso",
+      "xosodaiphat"
+    ]
+  },
+  {
+    "region": "South",
+    "province": "ben-tre",
+    "date": "2026-01-06",
+    "prizes": {
+      "special": [
+        "704531"
+      ],
+      "first": [
+        "42970"
+      ],
+      "second": [
+        "40125"
+      ],
+      "third": [
+        "46868",
+        "83393"
+      ],
+      "fourth": [
+        "84483",
+        "00064",
+        "51692",
+        "67782",
+        "52657",
+        "19320",
+        "12605"
+      ],
+      "fifth": [
+        "3622"
+      ],
+      "sixth": [
+        "7771",
+        "3052",
+        "8263"
+      ],
+      "seventh": [
+        "897"
+      ],
+      "eighth": [
+        "71"
+      ]
+    },
+    "source": "minhngoc",
+    "consensusSources": [
+      "minhngoc",
+      "xoso",
+      "xosodaiphat"
+    ]
+  }
+]
