@@ -1,0 +1,146 @@
+[
+  {
+    "region": "South",
+    "province": "ba-ria-vung-tau",
+    "date": "2026-03-17",
+    "prizes": {
+      "eighth": [
+        "24"
+      ],
+      "seventh": [
+        "336"
+      ],
+      "sixth": [
+        "0917",
+        "8171",
+        "0577"
+      ],
+      "fifth": [
+        "7007"
+      ],
+      "fourth": [
+        "88888",
+        "74802",
+        "30340",
+        "58425",
+        "53079",
+        "59702",
+        "29539"
+      ],
+      "third": [
+        "67934",
+        "80620"
+      ],
+      "second": [
+        "25255"
+      ],
+      "first": [
+        "06296"
+      ],
+      "special": [
+        "182693"
+      ]
+    },
+    "source": "xoso",
+    "consensusSources": [
+      "xoso",
+      "xosodaiphat"
+    ]
+  },
+  {
+    "region": "South",
+    "province": "bac-lieu",
+    "date": "2026-03-17",
+    "prizes": {
+      "eighth": [
+        "98"
+      ],
+      "seventh": [
+        "388"
+      ],
+      "sixth": [
+        "1794",
+        "1808",
+        "7629"
+      ],
+      "fifth": [
+        "0573"
+      ],
+      "fourth": [
+        "34267",
+        "79307",
+        "72165",
+        "07455",
+        "35034",
+        "14203",
+        "36341"
+      ],
+      "third": [
+        "37203",
+        "69440"
+      ],
+      "second": [
+        "10067"
+      ],
+      "first": [
+        "10529"
+      ],
+      "special": [
+        "609459"
+      ]
+    },
+    "source": "xoso",
+    "consensusSources": [
+      "xoso",
+      "xosodaiphat"
+    ]
+  },
+  {
+    "region": "South",
+    "province": "ben-tre",
+    "date": "2026-03-17",
+    "prizes": {
+      "eighth": [
+        "10"
+      ],
+      "seventh": [
+        "677"
+      ],
+      "sixth": [
+        "6575",
+        "7813",
+        "8030"
+      ],
+      "fifth": [
+        "9625"
+      ],
+      "fourth": [
+        "74585",
+        "44696",
+        "09469",
+        "08132",
+        "14443",
+        "88541",
+        "59019"
+      ],
+      "third": [
+        "51095",
+        "58722"
+      ],
+      "second": [
+        "73984"
+      ],
+      "first": [
+        "87273"
+      ],
+      "special": [
+        "980950"
+      ]
+    },
+    "source": "xoso",
+    "consensusSources": [
+      "xoso",
+      "xosodaiphat"
+    ]
+  }
+]
