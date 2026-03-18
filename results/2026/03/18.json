@@ -1,0 +1,244 @@
+[
+  {
+    "region": "South",
+    "province": "dong-nai",
+    "date": "2026-03-18",
+    "prizes": {
+      "special": [
+        "749600"
+      ],
+      "first": [
+        "14457"
+      ],
+      "second": [
+        "23117"
+      ],
+      "third": [
+        "32981",
+        "86322"
+      ],
+      "fourth": [
+        "24635",
+        "94660",
+        "86525",
+        "76430",
+        "86734",
+        "31356",
+        "33313"
+      ],
+      "fifth": [
+        "5763"
+      ],
+      "sixth": [
+        "2348",
+        "9555",
+        "9372"
+      ],
+      "seventh": [
+        "457"
+      ],
+      "eighth": [
+        "51"
+      ]
+    },
+    "source": "minhngoc",
+    "consensusSources": [
+      "minhngoc",
+      "xosodaiphat"
+    ]
+  },
+  {
+    "region": "South",
+    "province": "can-tho",
+    "date": "2026-03-18",
+    "prizes": {
+      "special": [
+        "218956"
+      ],
+      "first": [
+        "19582"
+      ],
+      "second": [
+        "92785"
+      ],
+      "third": [
+        "88407",
+        "46867"
+      ],
+      "fourth": [
+        "72389",
+        "90129",
+        "30671",
+        "41968",
+        "18710",
+        "69830",
+        "04822"
+      ],
+      "fifth": [
+        "1295"
+      ],
+      "sixth": [
+        "8627",
+        "6625",
+        "0784"
+      ],
+      "seventh": [
+        "126"
+      ],
+      "eighth": [
+        "31"
+      ]
+    },
+    "source": "minhngoc",
+    "consensusSources": [
+      "minhngoc",
+      "xoso",
+      "xosodaiphat"
+    ]
+  },
+  {
+    "region": "South",
+    "province": "soc-trang",
+    "date": "2026-03-18",
+    "prizes": {
+      "special": [
+        "499929"
+      ],
+      "first": [
+        "56143"
+      ],
+      "second": [
+        "03152"
+      ],
+      "third": [
+        "89221",
+        "86177"
+      ],
+      "fourth": [
+        "51587",
+        "30577",
+        "54034",
+        "27371",
+        "44474",
+        "68904",
+        "29747"
+      ],
+      "fifth": [
+        "6928"
+      ],
+      "sixth": [
+        "8119",
+        "8898",
+        "7833"
+      ],
+      "seventh": [
+        "995"
+      ],
+      "eighth": [
+        "55"
+      ]
+    },
+    "source": "minhngoc",
+    "consensusSources": [
+      "minhngoc",
+      "xoso",
+      "xosodaiphat"
+    ]
+  },
+  {
+    "region": "Central",
+    "province": "da-nang",
+    "date": "2026-03-18",
+    "prizes": {
+      "special": [
+        "128901"
+      ],
+      "first": [
+        "01534"
+      ],
+      "second": [
+        "53679"
+      ],
+      "third": [
+        "96667",
+        "85413"
+      ],
+      "fourth": [
+        "63353",
+        "01845",
+        "04212",
+        "80136",
+        "97964",
+        "25379",
+        "12322"
+      ],
+      "fifth": [
+        "4192"
+      ],
+      "sixth": [
+        "9904",
+        "4281",
+        "8250"
+      ],
+      "seventh": [
+        "473"
+      ],
+      "eighth": [
+        "55"
+      ]
+    },
+    "source": "minhngoc",
+    "consensusSources": [
+      "minhngoc",
+      "xosodaiphat"
+    ]
+  },
+  {
+    "region": "Central",
+    "province": "khanh-hoa",
+    "date": "2026-03-18",
+    "prizes": {
+      "special": [
+        "518891"
+      ],
+      "first": [
+        "84059"
+      ],
+      "second": [
+        "91486"
+      ],
+      "third": [
+        "60620",
+        "19038"
+      ],
+      "fourth": [
+        "04709",
+        "45425",
+        "06204",
+        "01306",
+        "03787",
+        "16667",
+        "96929"
+      ],
+      "fifth": [
+        "5912"
+      ],
+      "sixth": [
+        "9212",
+        "9798",
+        "4433"
+      ],
+      "seventh": [
+        "795"
+      ],
+      "eighth": [
+        "50"
+      ]
+    },
+    "source": "minhngoc",
+    "consensusSources": [
+      "minhngoc",
+      "xosodaiphat"
+    ]
+  }
+]
