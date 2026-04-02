@@ -1,0 +1,146 @@
+[
+  {
+    "region": "South",
+    "province": "an-giang",
+    "date": "2026-04-02",
+    "prizes": {
+      "eighth": [
+        "72"
+      ],
+      "seventh": [
+        "811"
+      ],
+      "sixth": [
+        "8453",
+        "0001",
+        "1846"
+      ],
+      "fifth": [
+        "9645"
+      ],
+      "fourth": [
+        "28413",
+        "42860",
+        "58839",
+        "53616",
+        "75428",
+        "44602",
+        "02424"
+      ],
+      "third": [
+        "14783",
+        "07970"
+      ],
+      "second": [
+        "95225"
+      ],
+      "first": [
+        "93818"
+      ],
+      "special": [
+        "839409"
+      ]
+    },
+    "source": "xoso",
+    "consensusSources": [
+      "xoso",
+      "xosodaiphat"
+    ]
+  },
+  {
+    "region": "South",
+    "province": "binh-thuan",
+    "date": "2026-04-02",
+    "prizes": {
+      "eighth": [
+        "97"
+      ],
+      "seventh": [
+        "623"
+      ],
+      "sixth": [
+        "9390",
+        "0784",
+        "5515"
+      ],
+      "fifth": [
+        "1618"
+      ],
+      "fourth": [
+        "85586",
+        "72110",
+        "70239",
+        "09426",
+        "94119",
+        "05693",
+        "94791"
+      ],
+      "third": [
+        "81929",
+        "75208"
+      ],
+      "second": [
+        "68134"
+      ],
+      "first": [
+        "09231"
+      ],
+      "special": [
+        "404476"
+      ]
+    },
+    "source": "xoso",
+    "consensusSources": [
+      "xoso",
+      "xosodaiphat"
+    ]
+  },
+  {
+    "region": "South",
+    "province": "tay-ninh",
+    "date": "2026-04-02",
+    "prizes": {
+      "eighth": [
+        "85"
+      ],
+      "seventh": [
+        "955"
+      ],
+      "sixth": [
+        "5112",
+        "9051",
+        "5419"
+      ],
+      "fifth": [
+        "8347"
+      ],
+      "fourth": [
+        "70058",
+        "74606",
+        "37592",
+        "87269",
+        "16760",
+        "52438",
+        "09436"
+      ],
+      "third": [
+        "77967",
+        "38143"
+      ],
+      "second": [
+        "08423"
+      ],
+      "first": [
+        "28675"
+      ],
+      "special": [
+        "216674"
+      ]
+    },
+    "source": "xoso",
+    "consensusSources": [
+      "xoso",
+      "xosodaiphat"
+    ]
+  }
+]
